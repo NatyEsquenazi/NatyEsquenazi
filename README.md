@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-😄 My name is Natalia and I'm from Argentina. 
-🔭 I'm currently working as a data analyst in the statistics department. 
-🌱 I'm a highly committed member of a research group that study ethics and artificial intelligence. 
+- 😄 My name is Natalia and I'm from Argentina. 
+- 🔭 I'm currently working as a data analyst in the statistics department. 
+- 🌱 I'm a highly committed member of a research group that study ethics and artificial intelligence. 
 
 
 <!--
