@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-My name is Natalia and I'm from Argentina. I'm currently working in the Statistics Department of the Government. 
+😄 My name is Natalia and I'm from Argentina. 
+🔭 I'm currently working as a data analyst in the statistics department. 
+🌱 I'm a highly committed member of a research group that study ethics and artificial intelligence. 
+
 
 <!--
 **NatyEsquenazi/NatyEsquenazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
