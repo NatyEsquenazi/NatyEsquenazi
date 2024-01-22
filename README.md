@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 My name is Natalia and I'm from Buenos Aires, Argentina
-- ⚡ I an MA in Economics from the National University of Cordoba and an MA in Quantitative Methods from Central European University
+- ⚡ I have an MA in Economics from the National University of Cordoba and an MA in Quantitative Methods from Central European University
 - 🔭 I'm currently working as a data analyst for a consulting firm 
 - 🌱 I'm a highly committed member of Women in Technology
 - In this repository you will projects that I have developed as well as courses that I attended. Additionaly, there are a few porjects developed for Women in Technology and two courses in data analysis that I conducted in the past. 
